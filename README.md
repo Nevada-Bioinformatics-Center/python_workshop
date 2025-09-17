@@ -1,8 +1,7 @@
-# Python Workshop (Beginner)
+# Python Workshops 
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Nevada-Bioinformatics-Center/python_workshop/blob/main/PythonCrashCourse_Notebook_beginner.ipynb)
 
-Welcome! This repository contains a **teaching workshop** for beginners who want a gentle, hands-on introduction to Python using Jupyter notebooks. No prior Python experience is required.
+Welcome! This repository contains a **teaching workshop** for beginners who want a gentle, hands-on introduction to Python using Jupyter notebooks. No prior Python experience is required. Then, we take it a step further by going into our intermediate workshop to learn more skills.
 
 ---
 
@@ -12,7 +11,7 @@ Welcome! This repository contains a **teaching workshop** for beginners who want
 - Step-by-step exercises covering:
   - Basic Python syntax (variables, types, lists)
   - Control flow (if/else, loops)
-  - modules
+  - Modules
   - Working in notebooks (cells, markdown, code)
   - Light data wrangling and plotting (intro level)
 
@@ -22,7 +21,7 @@ Welcome! This repository contains a **teaching workshop** for beginners who want
 
 Click the badge to launch the notebook in Colab:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Nevada-Bioinformatics-Center/python_workshop/blob/main/PythonCrashCourse_Notebook_beginner.ipynb)
+**Beginner** - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Nevada-Bioinformatics-Center/python_workshop/blob/main/PythonCrashCourse_Notebook_beginner.ipynb)
 
 Tips:
 - To keep your own copy: **File → Save a copy in Drive** (or **Save a copy to GitHub**).
