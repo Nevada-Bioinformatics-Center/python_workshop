@@ -23,6 +23,8 @@ Click the badge to launch the notebook in Colab:
 
 **Beginner** - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Nevada-Bioinformatics-Center/python_workshop/blob/main/PythonCrashCourse_Notebook_beginner.ipynb)
 
+**Intermediate** - Coming Soon
+
 Tips:
 - To keep your own copy: **File → Save a copy in Drive** (or **Save a copy to GitHub**).
 
