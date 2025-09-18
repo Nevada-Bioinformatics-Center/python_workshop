@@ -36,6 +36,6 @@ If you prefer running on your machine:
 
 ### Using conda (mamba/conda)
 ```bash
-mamba create -n pyworkshop python=3.10 jupyterlab numpy pandas matplotlib -y
+mamba create -n pyworkshop python=3.10 jupyterlab numpy pandas matplotlib seaborn -y
 mamba activate pyworkshop   # or: conda activate pyworkshop
 jupyter lab
