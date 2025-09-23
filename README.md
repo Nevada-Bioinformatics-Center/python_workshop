@@ -24,6 +24,7 @@ Welcome! This repository contains a **teaching workshop** for beginners who want
   - Looping control
   - Conditional Statements
   - Parsing Text and JSON Files
+  - Writing your first standalone Python script
 
 
 ---
