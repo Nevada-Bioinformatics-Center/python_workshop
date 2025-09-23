@@ -18,6 +18,12 @@ Welcome! This repository contains a **teaching workshop** for beginners who want
 - Step-by-step exercises covering:
   - Dictionaries
   - List comprehension and Dicitonary comprehension 
+  - More Plotting
+  - Filtering Dataframes
+  - Reading and Writing Files
+  - Looping control
+  - Conditional Statements
+  - Parsing Text and JSON Files
 
 
 ---
